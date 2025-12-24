@@ -1,4 +1,6 @@
 # GirlsNotes_repack
 Оригинальная версия:
-https://github.com/eeetwinkle/text_processor
-https://github.com/yobysheva/backend_text_processor
+<br> https://github.com/eeetwinkle/text_processor 
+<br> https://github.com/yobysheva/backend_text_processor
+
+### Репак в релизах!
